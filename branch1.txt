@@ -6,7 +6,7 @@ now making changes to use pull operation
 
 trying push operation from local git
 
-adding an extra line in a new branch to see the changes made.
+adding an extra line in a new branch to see the changes made in github editor.
 
 
 
