@@ -6,6 +6,8 @@ now making changes to use pull operation
 
 trying push operation from local git
 
+git adding a line in localgit for pushing in GitHub.
+
 
 
 
